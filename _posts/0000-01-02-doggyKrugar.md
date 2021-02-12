@@ -2,4 +2,4 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 Your text
-Use the left arrow to go back!
+Apple a day, keeps doctors looking for you with a table knife .. hahah I am a fool
